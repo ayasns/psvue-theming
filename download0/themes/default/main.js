@@ -1,5 +1,5 @@
 // PSN bypass or use np payload by earthonion
-// include('../download0/themes/default/bypassPSN.js');
+// include('../download0/themes/bypassPSN.js');
 
 // Send log to log_server.py
 function log(msg) {
